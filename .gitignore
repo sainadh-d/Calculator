@@ -1,0 +1,5 @@
+.shadow-cljs/*
+package-lock.json
+node_modules/*
+resources/public/js/cljs-runtime/*
+Calculator-darwin-x64/*
