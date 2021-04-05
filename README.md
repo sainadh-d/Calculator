@@ -1,7 +1,7 @@
 # Calculator Electron & Web App
 React Calculator built using shadow-cljs, reagent
 
-![Screenshot.png]
+![](Screenshot.png)
 
 Inspiration: https://github.com/benoitvallon/react-native-nw-react-calculator
 
