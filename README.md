@@ -1,4 +1,4 @@
-# Calculator Electron & Web App
+# Calculator - Electron & Web App
 React Calculator built using shadow-cljs, reagent
 
 ![](Screenshot.png)
