@@ -5,6 +5,8 @@ React Calculator built using shadow-cljs, reagent
 
 Inspiration: https://github.com/benoitvallon/react-native-nw-react-calculator
 
+Checkout live demo [here](https://sainadh-d.github.io/Calculator/)
+
 ## Run
 
 ``` shell
